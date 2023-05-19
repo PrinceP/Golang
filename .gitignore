@@ -1,0 +1,4 @@
+test_cpp
+*.tif
+*.so
+mean_kernel
