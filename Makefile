@@ -19,3 +19,8 @@ all:
 	go run arrays.go
 	go run slice.go
 	go run map.go
+	go run range.go
+	go run functions.go
+	go run pointer.go
+	go run strings-and-runes.go
+	go run structs.go
