@@ -24,3 +24,15 @@ all:
 	go run pointer.go
 	go run strings-and-runes.go
 	go run structs.go
+	go run interfaces.go
+	go run struct-embedding.go
+	# go run generics.go
+	go run errors.go
+	go run goroutines.go
+	go run channels.go
+	go run channel-synchronization.go
+	go run channel-directions.go
+	go run select.go
+	go run timeouts.go
+	go run non-blocking-channel-operations.go 
+	go run closing-channels.go
